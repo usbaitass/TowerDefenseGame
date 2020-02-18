@@ -1,0 +1,96 @@
+2016-04-07 10:26:59 INFO  Game:66 - LOG_CURRENT_SESSION_TAG_20160407102659600
+2016-04-07 10:27:00 INFO  Game:66 - LOG_CURRENT_SESSION_TAG_20160407102700291
+2016-04-07 10:27:00 INFO  Game:88 - Game Loaded!!
+2016-04-07 10:27:01 INFO  Game:88 - Game Loaded!!
+2016-04-07 10:27:07 INFO  Game:66 - LOG_CURRENT_SESSION_TAG_20160407102707423
+2016-04-07 10:27:08 INFO  Game:88 - Game Loaded!!
+2016-04-07 10:27:10 INFO  JMenuBarComponent:125 - Breadcrumbs Menu Selected: FILE > PLAY.
+2016-04-07 10:27:56 INFO  JMenuBarComponent:156 - Map File  Name:Map_10_8.tdm  selected.
+2016-04-07 10:27:59 INFO  JMenuBarComponent:560 - Game Player Name : Sajjad
+2016-04-07 10:28:00 INFO  JPanelComponent:346 - MAP Boundary Points : 1:1,2:1,4:0,4:1,4:2,2:2,4:3,2:3,4:4,2:4,4:5,2:5
+2016-04-07 10:28:00 INFO  GameInfoPanel:136 - Sun 500, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:00 INFO  JMenuBarComponent:224 - Map file Loaded successfully!
+2016-04-07 10:28:10 INFO  TowerShopPanel:90 - Shop Panel: Tower id = 0
+2016-04-07 10:28:11 INFO  TowerDescriptionPanel:136 - BUY Button Clicked.
+2016-04-07 10:28:11 INFO  GameInfoPanel:158 - Sun :480, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:11 INFO  MapPanel:155 - Player bought Tower = 0, Tower_Shooter_towerID_0
+2016-04-07 10:28:12 INFO  TowerDescriptionPanel:153 - You have bought a tower.
+ Place it ONLY on the YELLOW Part on the map please.
+2016-04-07 10:28:13 INFO  JPanelComponent:506 - Button Click Event Btn Name : 22:2:1
+2016-04-07 10:28:13 INFO  JPanelComponent:516 - x : 2 , y : 1
+2016-04-07 10:28:13 INFO  JPanelComponent:528 - Tower Placcement Button 22:2:1 is clicked
+2016-04-07 10:28:15 INFO  TowerShopPanel:90 - Shop Panel: Tower id = 3
+2016-04-07 10:28:17 INFO  TowerDescriptionPanel:136 - BUY Button Clicked.
+2016-04-07 10:28:17 INFO  GameInfoPanel:158 - Sun :400, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:17 INFO  MapPanel:155 - Player bought Tower = 3, Tower_Splasher_towerID_1
+2016-04-07 10:28:18 INFO  TowerDescriptionPanel:153 - You have bought a tower.
+ Place it ONLY on the YELLOW Part on the map please.
+2016-04-07 10:28:19 INFO  JPanelComponent:506 - Button Click Event Btn Name : 46:4:5
+2016-04-07 10:28:19 INFO  JPanelComponent:516 - x : 4 , y : 5
+2016-04-07 10:28:19 INFO  JPanelComponent:528 - Tower Placcement Button 46:4:5 is clicked
+2016-04-07 10:28:20 INFO  TowerShopPanel:90 - Shop Panel: Tower id = 2
+2016-04-07 10:28:21 INFO  TowerDescriptionPanel:136 - BUY Button Clicked.
+2016-04-07 10:28:21 INFO  GameInfoPanel:158 - Sun :340, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:21 INFO  MapPanel:155 - Player bought Tower = 2, Tower_Burner_towerID_2
+2016-04-07 10:28:22 INFO  TowerDescriptionPanel:153 - You have bought a tower.
+ Place it ONLY on the YELLOW Part on the map please.
+2016-04-07 10:28:23 INFO  JPanelComponent:506 - Button Click Event Btn Name : 41:4:0
+2016-04-07 10:28:23 INFO  JPanelComponent:516 - x : 4 , y : 0
+2016-04-07 10:28:23 INFO  JPanelComponent:528 - Tower Placcement Button 41:4:0 is clicked
+2016-04-07 10:28:24 INFO  GameInfoPanel:95 - Wave is started 1.
+2016-04-07 10:28:24 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:25 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:26 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:27 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:28 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:1 damage:1
+2016-04-07 10:28:31 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:32 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:33 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:34 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:0 damage:1
+2016-04-07 10:28:34 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:34 INFO  GameInfoPanel:158 - Sun :347, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:34 INFO  Tower:445 - Tower_Shooter_towerID_0 killed critter id:0
+2016-04-07 10:28:35 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:1 damage:1
+2016-04-07 10:28:35 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:1 damage:1
+2016-04-07 10:28:36 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:1 damage:1
+2016-04-07 10:28:36 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:1 damage:1
+2016-04-07 10:28:36 INFO  GameInfoPanel:158 - Sun :354, HP :10, WAVE: 1, Critter: Zomby x2, Health: 10.
+2016-04-07 10:28:36 INFO  Tower:445 - Tower_Shooter_towerID_0 killed critter id:1
+2016-04-07 10:28:36 INFO  MapPanel:170 - Wave end.
+2016-04-07 10:28:36 INFO  GameInfoPanel:158 - Sun :354, HP :10, WAVE: 2, Critter: Zomby x4, Health: 10.
+2016-04-07 10:28:36 INFO  MapPanel:176 - Next Wave : 2 Started.
+2016-04-07 10:28:40 INFO  GameInfoPanel:95 - Wave is started 2.
+2016-04-07 10:28:40 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:41 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:42 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:43 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:0 damage:1
+2016-04-07 10:28:44 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:1 damage:1
+2016-04-07 10:28:45 INFO  Tower:408 - Tower_Splasher_towerID_1 shoots critter id:2 damage:1
+2016-04-07 10:28:47 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:48 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:49 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:50 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:0 damage:1
+2016-04-07 10:28:50 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:0 damage:1
+2016-04-07 10:28:50 INFO  GameInfoPanel:158 - Sun :361, HP :10, WAVE: 2, Critter: Zomby x4, Health: 10.
+2016-04-07 10:28:50 INFO  Tower:445 - Tower_Shooter_towerID_0 killed critter id:0
+2016-04-07 10:28:51 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:1 damage:1
+2016-04-07 10:28:51 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:1 damage:1
+2016-04-07 10:28:52 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:1 damage:1
+2016-04-07 10:28:52 INFO  GameInfoPanel:158 - Sun :368, HP :10, WAVE: 2, Critter: Zomby x4, Health: 10.
+2016-04-07 10:28:53 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:2 damage:1
+2016-04-07 10:28:53 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:2 damage:1
+2016-04-07 10:28:54 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:2 damage:1
+2016-04-07 10:28:54 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:2 damage:1
+2016-04-07 10:28:55 INFO  Tower:408 - Tower_Burner_towerID_2 shoots critter id:3 damage:1
+2016-04-07 10:28:55 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:2 damage:1
+2016-04-07 10:28:55 INFO  GameInfoPanel:158 - Sun :375, HP :10, WAVE: 2, Critter: Zomby x4, Health: 10.
+2016-04-07 10:28:55 INFO  Tower:445 - Tower_Shooter_towerID_0 killed critter id:2
+2016-04-07 10:28:56 INFO  Tower:408 - Tower_Shooter_towerID_0 shoots critter id:3 damage:1
+2016-04-07 10:28:59 INFO  MapPanel:221 - Critter reached the Exit: -1 from Hit Points!
+2016-04-07 10:28:59 INFO  GameInfoPanel:158 - Sun :375, HP :9, WAVE: 2, Critter: Zomby x4, Health: 10.
+2016-04-07 10:28:59 INFO  MapPanel:135 - Play smarter, you still have a chance!
+2016-04-07 10:28:59 INFO  MapPanel:136 - Play smarter, you still have a chance!
+2016-04-07 10:28:59 INFO  MapPanel:170 - Wave end.
+2016-04-07 10:28:59 INFO  GameInfoPanel:158 - Sun :375, HP :9, WAVE: 3, Critter: Zomby x6, Health: 10.
+2016-04-07 10:28:59 INFO  MapPanel:176 - Next Wave : 3 Started.
+2016-04-07 10:29:01 INFO  JMenuBarComponent:367 - Breadcrumbs Menu Selected: VIEW > LOG VIEWER .
