@@ -3,6 +3,7 @@ The project was made for Advanced Programming Practices course.
 
 During design and implementation we were required to use various Design Patterns.
 In this project at least 4 Design Patterns were used: Singleton, Observer, Factory, Strategy.
+
 For detailed information view the Documentation folder.
 
 To start the game run the file:
