@@ -1,5 +1,6 @@
 # Tower Defense Game
 Programming practices course.
+
 In this project at least 4 Design Patterns were used.
 For detailed information view the Documentation folder.
 
