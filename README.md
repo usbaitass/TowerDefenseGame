@@ -1,6 +1,7 @@
 # Tower Defense Game
-Programming practices course.
+The project was made for Advanced Programming Practices course.
 
+During design and implementation we were required to use various Design Patterns.
 In this project at least 4 Design Patterns were used.
 For detailed information view the Documentation folder.
 
