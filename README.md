@@ -51,6 +51,6 @@ Game over:
 
       Each critter substract one hit point from player hit points when passing into the exit.
 
-when player's hit points reach zero, game over.
+      when player's hit points reach zero, game over.
 
-if player clears 50 levels, he wins the game.
+      if player clears 50 levels, he wins the game.
