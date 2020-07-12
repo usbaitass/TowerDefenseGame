@@ -4,7 +4,7 @@ The project was made for Advanced Programming Practices course.
 During design and implementation we were required to use various Design Patterns.<br>
 In this project at least 4 Design Patterns were used: Singleton, Observer, Factory, Strategy.
 
-For detailed information view the Documentation folder.
+For detailed information view the <b>Documentation</b> folder.
 
 To start the game run the file:<br>
 <i>/src/com/app/towerDefense/guisystem/game.java</i>
