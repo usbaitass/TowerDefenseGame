@@ -1,7 +1,7 @@
 # Tower Defense Game
 The project was made for Advanced Programming Practices course.
 
-During design and implementation we were required to use various Design Patterns.
+During design and implementation we were required to use various Design Patterns.<br>
 In this project at least 4 Design Patterns were used: Singleton, Observer, Factory, Strategy.
 
 For detailed information view the Documentation folder.
