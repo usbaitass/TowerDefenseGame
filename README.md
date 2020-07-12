@@ -25,13 +25,13 @@ To start the game run the file:
 
 <h4>To create map:</h4>
 
-<b>left click is to place a path</b>
+      left click is to place a path
 
       1st right click is to set Entry point
 
       2nd right click is to set Exit point
 
-<b>To build tower:</b>
+<h4>To build tower:</h4>
 
       in the right bottom corner, there is a tower shop panel,
 
@@ -43,7 +43,7 @@ To start the game run the file:
 
       user can not sell and buy tower during the waves, only between waves.
 
-<b>Critters:</b>
+<h4>Critters:</h4>
 
       critters difficulty depends on the wave level, <br>
       the higher the level, more critters appear with higher health points and higher speed.
