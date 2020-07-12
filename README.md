@@ -6,8 +6,8 @@ In this project at least 4 Design Patterns were used: Singleton, Observer, Facto
 
 For detailed information view the Documentation folder.
 
-To start the game run the file:
-/src/com/app/towerDefense/guisystem/game.java
+To start the game run the file:<br>
+<i>/src/com/app/towerDefense/guisystem/game.java</i>
 
 
 
