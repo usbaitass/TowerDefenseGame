@@ -45,7 +45,8 @@ To build tower:
 
 Critters:
 
-      critters difficulty depends on the wave level, the higher the level, more critters appear with higher health points and higher speed.
+      critters difficulty depends on the wave level, <br>
+      the higher the level, more critters appear with higher health points and higher speed.
 
 Game over:
 
