@@ -13,9 +13,9 @@ To start the game run the file:
 
 
 
-How to play the game?
+<h2>How to play the game?</h2>
 
-When the game starts:
+<h4>When the game starts:</h4>
 
       in the upper left corner,
 
@@ -23,15 +23,15 @@ When the game starts:
 
       load the presious game.
 
-To create map:
+<h4>To create map:</h4>
 
-left click is to place a path
+<b>left click is to place a path</b>
 
       1st right click is to set Entry point
 
       2nd right click is to set Exit point
 
-To build tower:
+<b>To build tower:</b>
 
       in the right bottom corner, there is a tower shop panel,
 
@@ -43,12 +43,12 @@ To build tower:
 
       user can not sell and buy tower during the waves, only between waves.
 
-Critters:
+<b>Critters:</b>
 
       critters difficulty depends on the wave level, <br>
       the higher the level, more critters appear with higher health points and higher speed.
 
-Game over:
+<h4>Game over:</h4>
 
       Each critter substract one hit point from player hit points when passing into the exit.
 
